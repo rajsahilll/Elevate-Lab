@@ -1,2 +1,1 @@
-# Elevate-Lab
-Data Analytics Internship projects showcasing skills in **Python, SQL, Excel, Power BI, data cleaning, visualization, and EDA**, with practical data-driven insights.
+I cleaned the Customer Personality Analysis dataset (2,240 rows): renamed columns to lowercase, filled 24 missing income values with the median, standardized inconsistent categories (marital status, education), fixed date formats and data types, and removed 4 invalid rows (implausible birth years, an income outlier). Added `age` and `customer_for_years` columns. Result: 2,236 clean rows, 0 missing values, consistent formats throughout — using Python (Pandas).
